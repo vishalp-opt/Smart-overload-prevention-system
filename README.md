@@ -21,10 +21,8 @@ The system utilizes a "Dynamic Tare" algorithm to differentiate between actual p
 * **Language:** C++ (Arduino Framework)
 
 ## 📂 Repository Structure
-* `/src`: C++ source code for the Arduino microcontroller.
-* `/docs`: System architecture presentations and patent literature surveys (CN102019873A, US8855871B2).
-* `/hardware`: Circuit diagrams and pinout configurations.
-* `/media`: Prototype demonstration videos and component images.
+* `/src/simulation`: Baseline Tinkercad C++ simulation code.
+* `/hardware/v1_tinkercad`: Initial circuit schematics and Tinkercad output logs.* `/media`: Prototype demonstration videos and component images.
 
 ## 🎥 Project Vision & Concept
 *Note: This is an AI-generated cinematic pitch created to illustrate the real-world impact and conceptual design of the Smart Overloading Prevention System.*
